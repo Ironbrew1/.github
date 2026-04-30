@@ -1,19 +1,25 @@
 <div align="center">
     <a href="https://ironbrew1.com/">
-        <img src="https://github.com/Ironbrew1/.github/blob/main/Images/banner.png" alt="Luraph logo" width="400px">
+        <img src="https://github.com/Ironbrew1/.github/blob/main/Images/banner.png" alt="Ironbrew1 logo" width="600px">
     </a>
 </div>
 
-## Ironbrew1 -- the fastest Lua obfuscator!
+<h1 align="center">
+<b>Ironbrew1</b>
+</h1>
 
-### Info
+<h3 align="center">
+The fastest Lua obfuscator!
+</h3>
 
-This GitHub organization contains repositories with examples of how to integrate Ironbrew1 into your service.
+### :information_source: Info
 
-### About Us
+This organization contains repositories with examples of how to integrate Ironbrew1 into your service.
 
-We're a team of two people looking to break the monopolistic lua obfuscator market with better prices.
+### :question: About Us
+
+We're a team of two people looking to break the monopolistic lua obfuscator market.
 
 ### :link: Links
 - [Ironbrew1 Site](https://ironbrew1.com/)
-- [Our Discord Server](https://discord.ironbrew1.com/)
+- [Ironbrew1 Discord Server](https://discord.ironbrew1.com/)
