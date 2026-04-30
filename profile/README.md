@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://ironbrew1.com/">
-        <img src="https://github.com/Ironbrew1/.github/blob/main/Images/icon.png" alt="Luraph logo" width="400px">
+        <img src="https://github.com/Ironbrew1/.github/blob/main/Images/banner.png" alt="Luraph logo" width="400px">
     </a>
 </div>
 
